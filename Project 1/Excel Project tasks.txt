@@ -1,0 +1,15 @@
+1.Compare Sales and Order
+
+2.Which month has the highest sales and order
+
+3.Population makes highest purchases
+
+4.Order status
+
+5.Top 10 states contributing towards sales
+
+6.Orders based on the age group
+
+7.Sales channel contributing towards maximum sales
+
+8.Highest Selling category

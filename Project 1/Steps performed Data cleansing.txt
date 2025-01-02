@@ -1,0 +1,6 @@
+Steps performed Data cleansing 
+
+1.Removing blank and unwanted columns/rows
+
+2.Changing the Short names to Full forms.
+
